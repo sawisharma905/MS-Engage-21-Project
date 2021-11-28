@@ -1,0 +1,24 @@
+body{
+    background-color: #ffbd0a;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+img{
+    max-width: 150px;
+    max-height: 150px;
+    /* padding-left: 150px;
+    padding-right: 150px; */
+    /* align-self: center; */  
+}
+
+a{
+    text-align: center;
+}
+
+#logo{
+    float: left;
+    padding-left: 160px;
+    padding-right: 160px;
+    text-align: center;
+}
+
