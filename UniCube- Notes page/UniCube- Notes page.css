@@ -1,0 +1,21 @@
+body{
+background-color: #ffbd0a;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card{
+    background-color: #710364;
+}
+
+.form-control{
+    background-color: #e6a7f0;
+}
+
+.btn.btn-primary{
+    background-color: #200a4d;
+    border-color: #200a4d;
+}
+
+nav{
+    background-color: #710364;
+}
