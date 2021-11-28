@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ffbd0a;
+    align-content: center;
+    
+}
+
+#collegeform{
+    width: 30%;
+    margin-top: 13%;
+    margin-left: 35%;
+    text-align: center;
+    background-color: #710364;
+}
+
+#college-code{
+    background-color: #e6a7f0;
+}
+
+a.button{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    background-color: #200a4d;
+    border-color: #200a4d;
+    color: ivory;
+    
+}
